@@ -23,7 +23,7 @@ apt update && apt upgrade -y
 ```
 Or
 ```
-pkg up -y
+pkg upg -y
 ```
 After upgrading termux type below command 
 
